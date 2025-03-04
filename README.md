@@ -42,43 +42,9 @@
 </head>
 <body>
 
-    <h1>Project Name</h1>
-    <p>A brief description of your project. Explain what it does, its purpose, and why it's useful.</p>
+  
+</code></pre>
 
-    <h2>Table of Contents</h2>
-    <ol>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-    </ol>
-
-    <h2 id="installation">Installation</h2>
-    <p>Steps to install your project.</p>
-    <pre><code>git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install</code></pre>
-
-    <h2 id="usage">Usage</h2>
-    <p>How to use your project once it’s installed.</p>
-    <pre><code>npm start</code></pre>
-    <p>Provide examples of how to use your project and any relevant commands.</p>
-
-    <h2 id="contributing">Contributing</h2>
-    <p>Instructions for how others can contribute to your project.</p>
-    <ul>
-        <li>Fork the repository</li>
-        <li>Create a new branch</li>
-        <li>Make your changes</li>
-        <li>Submit a pull request</li>
-    </ul>
-
-    <h2 id="license">License</h2>
-    <p>Include your license information here. For example, you could include an MIT license or GPL license.</p>
-
-    <footer>
-        <p>Created by Your Name</p>
-    </footer>
     
 </body>
 </html>
